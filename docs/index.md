@@ -846,6 +846,35 @@
     </center>   
 ***
 -->
+***
+## Le 24/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. et synthèse de représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
+
+    - **Découvrir** la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank}
+    [Capytale n° b3a3-4027405](https://capytale2.ac-paris.fr/web/c/b3a3-4027405){target=_blank .md-button .md-button--primary} ;  
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+    > ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==    
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** et **rendre votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.==       
+
+    - **Finir** les activités du notebook [hexadédimale](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} ;
+
+    - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
+
+    - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
+
+***
 ## Le 19/09
 
 === "CONTENU DE SÉANCE"
