@@ -847,7 +847,7 @@
 ***
 -->
 ***
-## Le 24/09
+## Les 24 et 26/09
 
 === "CONTENU DE SÉANCE"
 
@@ -861,9 +861,9 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** et **rendre votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.==       
+    - **Finir** et **rendre** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.       
 
-    - **Finir** les activités du notebook [hexadédimale](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} ;
+    - **Finir** les activités des notebooks [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb){target=_blank} et [hexadédimale](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} ;
 
     - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
 
