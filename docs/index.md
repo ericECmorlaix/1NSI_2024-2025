@@ -807,45 +807,44 @@
 
 === "CONTENU DE SÉANCE"
 
-    - Retour sur le T.A.F. et synthèse de la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} ;
+ 
     - **Découvrir** [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} => ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary}​ -> 
+    ​ -> 
     
     - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... ), et **rendre** par [mail] votre notebook...==
+  
 
-=== "TRAVAIL À FAIRE"
-
-    - ==*DERNIER RAPPEL*==  **finir** et **rendre** par [mail] votre [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/){target=_blank} mémo des vos apprentissages en Python ;    
-    - **finir** les activités du notebook [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} et **partager** par [mail] un lien pointant vers votre document... ;
-    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank}==
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary};
-    - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
-    <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center>   
+-->
 ***
-## Les 27, 29/09 et 02/10
+## Le 27/09
 
 === "CONTENU DE SÉANCE"
 
-    - Retour sur le T.A.F. et synthèse de représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
-    - **Découvrir** la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank}​ -> ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary}
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... ), et **partager** par [mail] un lien pointant vers ce document...==
+    - Retour sur le T.A.F. et synthèse de la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} 
+    [Capytale n° b3a3-4027405](https://capytale2.ac-paris.fr/web/c/b3a3-4027405){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary} ;
+    
 
-    - Remédiation autour [du classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==dépôt public ou privé, structure des dossiers et personalisation et organisation du classeur, poids d'un [mail] avec PJ, [VSCode pour le web](https://vscode.dev/){target=_blank}, autres questions... ?==
+    - **Découvrir** [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} 
+    [Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary} ;
+    
+    > ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==    
+    
 
 === "TRAVAIL À FAIRE"
 
-    - **finir** et **rendre** par [mail] votre [notebook jupyter] mémo des vos apprentissages en Python ;    
-    - **finir** les activités du notebook [hexadédimale](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank} ;
-    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
+    - ==*DERNIER RAPPEL*== **Finir** et **rendre** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.
+
+    - **finir** les activités du notebook [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} et **partager** par [mail] un lien pointant vers votre document... ;       
+
+    - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} en utilisant les propriétés d'[affichage `Markdown()` du module `IPython.display`](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
+
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
+
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center>   
-***
--->
+    </center>
 ***
 ## Les 24 et 26/09
 
