@@ -801,22 +801,9 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>       
 
-
-***
-## Les 04 et 06/10
-
-=== "CONTENU DE SÉANCE"
-
- 
-    - **Découvrir** [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} => ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==
-    ​ -> 
-    
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... ), et **rendre** par [mail] votre notebook...==
-  
-
 -->
 ***
-## Le 27/09
+## Les 27/09 et 01/10
 
 === "CONTENU DE SÉANCE"
 
