@@ -800,9 +800,11 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **finir** les activités et **rendre** le notebook [ASCII et UTF8 pour coder les caracteres sur Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank} ;
+    - **Finir** les activités et **rendre** le notebook [ASCII et UTF8 pour coder les caracteres sur Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank} ;
+
+    - **Renforcer** votre apprentissage des bases de la programmation en Python sur la [plateforme Algoréa](https://parcours.algorea.org/fr/a/3080878003834387961;p=4702,5794277797719192711,204136604821791621,540678427040899806;a=0){target=_blank} ;
     
-    - **développer** vos scripts de conversion d'une couleur hexadécimale en (r,g,b), et d'un entier décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} 
+    - **Développer** vos scripts de conversion d'une couleur hexadécimale en (r,g,b), et d'un entier décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary} ;
 
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
