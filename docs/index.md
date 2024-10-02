@@ -781,27 +781,35 @@
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center>       
+    </center>      
+
+-->
+
+
 
 ***
 
-## Le 11/10
+## Le 03/10
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse partielle sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Programmation_Python-bases.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Programmation_Python-bases.ipynb){ .md-button .md-button--primary}
+    - **Créer** un compte sur [FranceIOI](https://login.france-ioi.org/register){target=_blank} puis **rejoindre** le groupe [1NSI_2024-2025 sur la plateforme Algoréa](https://parcours.algorea.org/fr/groups/mine){target=_blank} avec le code `gvbnswjssk` ;
+    - Synthèse partielle sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Programmation_Python-Bases.ipynb){target=_blank} 
+    [Capytale n° d8b8-4145623](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Programmation_Python-Bases.ipynb){ .md-button .md-button--primary}
 
 === "TRAVAIL À FAIRE"
 
-    - **finir** les activités du notebook [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} et **partager** par [mail] un lien pointant vers votre document... ;
-    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank}==
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary};
+    - **finir** les activités et **rendre** le notebook [ASCII et UTF8 pour coder les caracteres sur Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank} ;
+    
+    - **développer** vos scripts de conversion d'une couleur hexadécimale en (r,g,b), et d'un entier décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary} ;
+
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center>       
+    </center> 
 
--->
 ***
 ## Les 27/09 et 01/10
 
@@ -823,7 +831,9 @@
 
     - ==*DERNIER RAPPEL*== **Finir** et **rendre** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.
 
-    - **finir** les activités du notebook [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} et **partager** par [mail] un lien pointant vers votre document... ;       
+    - **finir** les activités du notebook [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} 
+    [Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank .md-button .md-button--primary} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary} ;       
 
     - **Développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} en utilisant les propriétés d'[affichage `Markdown()` du module `IPython.display`](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
 
