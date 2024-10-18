@@ -784,8 +784,28 @@
     </center>      
 
 -->
+***
+## Le 18/10
 
+=== "CONTENU DE SÉANCE"
+    
+    - QCM01 Bases de Python + binaire, hexadécimal, ASCII et UTF-8
 
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** les notebooks [ASCII et UTF8 pour coder les caracteres sur Capytale n° 4f0f-4075977](https://capytale2.ac-paris.fr/web/c/4f0f-4075977){target=_blank} et [bases de la programmation en Python sur Capytale n° d8b8-4145623](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank} ;
+
+    - **Renforcer** votre apprentissage des bases de la programmation en Python sur la [plateforme Algoréa](https://parcours.algorea.org/fr/a/3080878003834387961;p=4702,5794277797719192711,204136604821791621,540678427040899806;a=0){target=_blank} ;
+    
+    - **Rendre** vos scripts de conversion d'une couleur hexadécimale en (r,g,b), et d'un entier décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary} ;
+
+    - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion :
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center> 
+
+    - **Découvrir** l'interface graphique **Dear PyGui** à l'aide de [sa documentation](https://dearpygui.readthedocs.io){target=_blank} et de [la playlist de Frédéric LEULEU](https://youtu.be/AtQAfI91GcI?si=uTl8KkSBcn3oDo-y){target=_blank} ;
 
 ***
 
