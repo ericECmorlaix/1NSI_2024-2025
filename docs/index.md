@@ -713,9 +713,6 @@
     - ==**Constituer** progressivement une note, un memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript==
 
 
-
-
-
 -->
 ***
 
@@ -737,6 +734,9 @@
 
 
 === "TRAVAIL À FAIRE"
+
+    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
 
     - **S'entrainer** sur CodEx en réalisant les parcours [Découverte de liste, Calcul de moyennes, Manipulation de chaines de caractères](https://codex.forge.apps.education.fr/parcours/){target=_blank} et conserver une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
     
