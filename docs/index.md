@@ -738,6 +738,8 @@
     - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
 
+    - **Reprendre** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python
+
     - **S'entrainer** sur CodEx en réalisant les parcours [Découverte de liste, Calcul de moyennes, Manipulation de chaines de caractères](https://codex.forge.apps.education.fr/parcours/){target=_blank} et conserver une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
     
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion :
