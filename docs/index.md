@@ -615,9 +615,7 @@
     
     - Evaluation par QCM [Logique booléenne, IHM web statique, ...](https://genumsi.inria.fr/qcm.php?h=aaf8bf40e0b003fe80c1ccc5089df3c9){target=_blank} ;
 
-    - **Finir** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
-
+   
     - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
 
@@ -639,13 +637,9 @@
 
 === "CONTENU DE SÉANCE"
     
-    - **Répondre** aux questions du notebook [0467-2585879 : Activité de recherche des fonctions logiques](https://capytale2.ac-paris.fr/web/c/0467-2585879){target=_blank} ;
-
-    - **Faire** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
-
-    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+  
+ 
+    
 
 
 === "TRAVAIL À FAIRE"
@@ -690,8 +684,7 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
     > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
 
-    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
-
+  
     - Découverte de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==**Synchroniser** votre classeur déposé sur GitHub avec un coffre d'Obsidian localisé sur votre iPad et donner accès à vos fichiers `notebook.ipynb` de ce dossier à l'application Carnets== ;
 
 === "TRAVAIL À FAIRE"
@@ -714,6 +707,40 @@
 
 
 -->
+***
+
+## Du 03/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse des scripts du premier trimestre sur [Capytale n° 90db-4819088](https://capytale2.ac-paris.fr/web/c/90db-4819088){target=_blank .md-button .md-button--primary }
+        
+    - Correction du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"}
+     sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
+
+    - **Faire** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){target=_blank}
+     sur [Capytale n° 9a9f-4841668](https://capytale2.ac-paris.fr/web/c/9a9f-4841668){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
+
+
+=== "TRAVAIL À FAIRE"
+   
+    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
+    
+    - **Finaliser** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python
+
+    - **S'entrainer** sur CodEx en réalisant les parcours [Découverte de liste, Calcul de moyennes, Manipulation de chaines de caractères](https://codex.forge.apps.education.fr/parcours/){target=_blank} et conserver une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+
+***
+## Les 22 et 29/11
+
+=== "CONTENU DE SÉANCE"
+    
+    - QCM02 et QCM03 Bases de Python + binaire, hexadécimal, ASCII et UTF-8, Chaines de caractères, Types construits, Fonctions et Module
+
+
 ***
 
 ## Du 14/11
