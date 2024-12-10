@@ -731,7 +731,12 @@
     
     - **Finaliser** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python
 
-    - **S'entrainer** sur CodEx en réalisant les parcours [Découverte de liste, Calcul de moyennes, Manipulation de chaines de caractères](https://codex.forge.apps.education.fr/parcours/){target=_blank} et conserver une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+    - **S'entrainer** sur CodEx en réalisant les parcours [Découverte de liste, Calcul de moyennes, Manipulation de chaines de caractères](https://codex.forge.apps.education.fr/parcours/){target=_blank} et :
+
+        - [Opérateurs booléens](https://codex.forge.apps.education.fr/exercices/operateurs_booleens/){target=_blank} ;
+        - [Ou exclusif entre deux listes](https://codex.forge.apps.education.fr/exercices/ou_exclusif_listes/){target=_blank} ;
+        - [Validation de mot de passe](https://codex.forge.apps.education.fr/exercices/validation_mdp/){target=_blank} ;        
+    > **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
 
 ***
 ## Les 22 et 29/11
