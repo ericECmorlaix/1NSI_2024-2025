@@ -525,46 +525,6 @@
     - Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/5-Projets/#kanban){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Kanban_ma_rue.md){ .md-button .md-button--primary}  
 
-=== "TRAVAIL À FAIRE"    
-    
-    - **Rendre** tous les travaux engagés précédemment... ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
-
-***
-## Le 15/01
-
-=== "CONTENU DE SÉANCE"
-    
-    - **Finir** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Fonctions_et_modularisation.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Fonctions_et_modularisation.ipynb){ .md-button .md-button--primary}
-
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
-
-=== "TRAVAIL À FAIRE"    
-    
-    - **Rendre** vos codes pour les [fonctions de tri de trois valeurs `d1e7-2737862`](https://capytale2.ac-paris.fr/web/c/d1e7-2737862){target=_blank} ;
-    - **Finir** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
-
-     - **Revoir** les [opérateurs booléenns, les fonctions et les listes avec futurecoder.io](https://futurecoder.forge.aeif.fr/course/#toc){target=_blank} ;
-
-    - **Faire** les exercices pratiques :
-        - [Autour des booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-autour_des_booleens/sujet/){target=_blank} ;
-        - [Opérateurs booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-operateurs_booleens/sujet/){target=_blank} ;
-        - [Années bissextiles](https://e-nsi.forge.aeif.fr/pratique/N0/200-bissextile/sujet/){target=_blank} ;
-
-    - Complément, exemples de réalisations de fonctions logiques avec des transistors, **reconnaitre** les fonctions simulées :
-
-        - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
-        - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
-        - <https://tinyurl.com/y4pmexnc>{target="_blank"} ;
-        - <https://tinyurl.com/yya89b6n>{target="_blank"} ;
-        - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
-        > Ces circuits utilisent des transistors bipolaires inventés en 1948.
-        > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
-    
     
     - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
@@ -583,42 +543,13 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
 
 
-=== "TRAVAIL À FAIRE"    
-    
-    - **Finir** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
 
-     - **Revoir** les [opérateurs booléenns, les fonctions et les listes avec futurecoder.io](https://futurecoder.forge.aeif.fr/course/#toc){target=_blank} ;
 
-    - **Faire** les exercices pratiques :
-        - [Autour des booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-autour_des_booleens/sujet/){target=_blank} ;
-        - [Opérateurs booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-operateurs_booleens/sujet/){target=_blank} ;
-        - [Années bissextiles](https://e-nsi.forge.aeif.fr/pratique/N0/200-bissextile/sujet/){target=_blank} ;
-
-    - Complément, exemples de réalisations de fonctions logiques avec des transistors, **reconnaitre** les fonctions simulées :
-
-        - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
-        - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
-        - <https://tinyurl.com/y4pmexnc>{target="_blank"} ;
-        - <https://tinyurl.com/yya89b6n>{target="_blank"} ;
-        - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
-        > Ces circuits utilisent des transistors bipolaires inventés en 1948.
-        > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
     
     
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    -  [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 ***
-## Le 22/12
-
-=== "CONTENU DE SÉANCE"
-    
-    - Evaluation par QCM [Logique booléenne, IHM web statique, ...](https://genumsi.inria.fr/qcm.php?h=aaf8bf40e0b003fe80c1ccc5089df3c9){target=_blank} ;
-
-   
-    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
-
 
 === "TRAVAIL À FAIRE"    
     
@@ -707,6 +638,46 @@
 
 
 -->
+
+***
+
+## Du 17/12
+
+=== "CONTENU DE SÉANCE"
+
+    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    > Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans Visual Studio Code ;
+ 
+  
+=== "TRAVAIL À FAIRE"
+   
+    - **Rendre** les activités de [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){target=_blank}
+     sur [Capytale n° 9a9f-4841668](https://capytale2.ac-paris.fr/web/c/9a9f-4841668){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
+    - Complément, exemples de réalisations de fonctions logiques avec des transistors, **reconnaitre** les fonctions simulées :
+
+        - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
+        - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
+        - <https://tinyurl.com/y4pmexnc>{target="_blank"} ;
+        - <https://tinyurl.com/yya89b6n>{target="_blank"} ;
+        - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
+        > Ces circuits utilisent des transistors bipolaires inventés en 1948.
+        > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
+    
+    
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
+    
+    - **Finaliser** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python
+
+    - **S'entrainer** sur CodEx en réalisant les parcours [Découverte de liste, Calcul de moyennes, Manipulation de chaines de caractères](https://codex.forge.apps.education.fr/parcours/){target=_blank} et :
+
+        - [Opérateurs booléens](https://codex.forge.apps.education.fr/exercices/operateurs_booleens/){target=_blank} ;
+        - [Ou exclusif entre deux listes](https://codex.forge.apps.education.fr/exercices/ou_exclusif_listes/){target=_blank} ;
+        - [Validation de mot de passe](https://codex.forge.apps.education.fr/exercices/validation_mdp/){target=_blank} ;        
+    > **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+
 ***
 
 ## Du 03/12
