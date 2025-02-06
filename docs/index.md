@@ -626,18 +626,24 @@
     - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
 
 
+-->
 
-
-## Du 17/11 au 28/11
+## Du 06/02
 
 === "CONTENU DE SÉANCE"
 
-    - **Rejoindre** la classe sur la [KhanAcademy](https://fr.khanacademy.org/join/APMJZSEZ){target=_blank} et **Faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){ .md-button .md-button--primary}
+    - **Rejoindre** la classe sur la [KhanAcademy](https://fr.khanacademy.org/join/3E9X2XCS){target=_blank} et **Faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
+    et remettre votre travail via [Capytale n° `45e8-5599678`](https://capytale2.ac-paris.fr/web/c/45e8-5599678){target=_blank} ;
+    
     - ==**Constituer** progressivement une note, un memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript==
 
 
--->
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** le [devoir pratique de vacances en HTML/CSS | n° 4f26-5056055 / Capytale](https://capytale2.ac-paris.fr/web/c/4f26-5056055){:target="_blank"} ;
+
+    - **Finaliser** et **rendre** toutes les activités engagées sur Capytale ce trimestre...
 
 ***
 ## Du 21/01
