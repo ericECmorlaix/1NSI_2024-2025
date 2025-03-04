@@ -588,17 +588,9 @@
     - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ; 
 ***
 
-## Les 11, 13 et 15/12
 
-=== "CONTENU DE SÉANCE"
-    
-    - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
-    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
+
 
     - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
 
@@ -627,6 +619,19 @@
 
 
 -->
+
+## Le 04/03
+
+=== "CONTENU DE SÉANCE"
+    
+    - Evaluation par QCM sur le web statique ;
+    - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
+     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+
 
 ## Du 06/02
 
