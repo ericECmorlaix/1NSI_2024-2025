@@ -435,16 +435,6 @@
 
     - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) ;
 ***
-## Du 11/03
-
-=== "CONTENU DE SÉANCE"
-
-    - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/OS.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/OS.ipynb){ .md-button .md-button--primary} et remettre votre travail via [Capytale n° `acf6-3141192`](https://capytale2.ac-paris.fr/web/c/acf6-3141192){target=_blank} ;
-
-    - **Faire** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et compléter votre memo de ligne de commande [Capytale n° `79c6-3141637`](https://capytale2.ac-paris.fr/web/c/79c6-3141637) ;
-
     - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/TP_matrices.ipynb){ .md-button .md-button--primary} ;
 
@@ -460,10 +450,37 @@
     - **S'entrainer** pour la [Nuit du cOde 2023](./Nuit_du_cOde) ;
 
 
-***
-## Le19/02
 
-=== "CONTENU DE SÉANCE"
+    
+    
+    -  [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+
+ 
+    
+    - **Finir** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} > ==**Rendre** via [le notebook d76b-2521137 sur Capytale pour le 10/01/2024](https://capytale2.ac-paris.fr/web/c/d76b-2521137){target=_blank} ;
+
+    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
+    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
+
+    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
+
+
+    
+    - **Se préparer** pour une évaluation par QCM le 22/12/2023 ;
+    - **Finir** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} > ==**Rendre** via [le notebook d76b-2521137 sur Capytale pour le 10/01/2024](https://capytale2.ac-paris.fr/web/c/d76b-2521137){target=_blank} ;
+
+
+
+
+
+
+    - Découverte de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==**Synchroniser** votre classeur déposé sur GitHub avec un coffre d'Obsidian localisé sur votre iPad et donner accès à vos fichiers `notebook.ipynb` de ce dossier à l'application Carnets== ;
+
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+
 
     - Correction des [exercices pratiques sur des tableaux](https://capytale2.ac-paris.fr/web/c/3fba-2944900){target=_blank} ;
 
@@ -472,153 +489,33 @@
 
     <!-- - **Proposer** vos solutions pour les fonctionnalités du notebook [Extras_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Extras_matrices.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Extras_matrices.ipynb){ .md-button .md-button--primary} ;
-    
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Se préparer** pour une [**évaluation pratique](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} le 21/02** et une **évaluation par QCM le 23/02** portant sur les fonctions, les chaines de caractères, les tableaux, la programmation en Python d'une manière générale et d'autres notions déjà vues... ;
-       
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+    - **Se préparer** pour une [**évaluation pratique](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} le 21/02** et une **évaluation par QCM le 23/02** portant sur les fonctions, les chaines de caractères, les tableaux, la programmation en Python d'une manière générale et d'autres notions déjà vues... ; 
+-->
 
 ***
-## Du 07/02
+## Le 06/03
 
 === "CONTENU DE SÉANCE"
 
     - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Les_tableaux.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Les_tableaux.ipynb){ .md-button .md-button--primary} ;
 
-    > **Compléter** les exercices correspondants sur [Capytale n° 3fba-2944900](https://capytale2.ac-paris.fr/web/c/3fba-2944900){target=_blank} ;
+    > **Compléter** les exercices correspondants sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} ;
 
-    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
+    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/TP_matrices.ipynb){target=_blank} | [Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} |
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/TP_matrices.ipynb){ .md-button .md-button--primary} ;
     
-
 === "TRAVAIL À FAIRE"
-    
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
+     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+
+
+
+
 
 ***
-## Les 02 et 05/02
-
-=== "CONTENU DE SÉANCE"
-
-    - Présentations orales bilan du mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
-    
-=== "TRAVAIL À FAIRE"    
-    
-    - **Rendre** tous les travaux engagés précédemment... ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
-
-***
-
-## Le 22/01
-
-=== "CONTENU DE SÉANCE"
-
-    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
-    - Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/5-Projets/#kanban){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Kanban_ma_rue.md){ .md-button .md-button--primary}  
-
-    
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-***
-## Le 08/01
-
-=== "CONTENU DE SÉANCE"
-    
-    - **Parcourir** le notebook présentant [Les_types_construits](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Les_types_construits.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Les_types_construits.ipynb){ .md-button .md-button--primary}
-
-    - **Lire** et **faire** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Fonctions_et_modularisation.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Fonctions_et_modularisation.ipynb){ .md-button .md-button--primary}
-
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
-
-
-
-
-    
-    
-    -  [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-***
-
-=== "TRAVAIL À FAIRE"    
-    
-    - **Finir** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} > ==**Rendre** via [le notebook d76b-2521137 sur Capytale pour le 10/01/2024](https://capytale2.ac-paris.fr/web/c/d76b-2521137){target=_blank} ;
-
-    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
-    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
-
-    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
-
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ; 
-***
-## Les 18 et 20/12
-
-=== "CONTENU DE SÉANCE"
-    
-  
- 
-    
-
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Se préparer** pour une évaluation par QCM le 22/12/2023 ;
-    - **Finir** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} > ==**Rendre** via [le notebook d76b-2521137 sur Capytale pour le 10/01/2024](https://capytale2.ac-paris.fr/web/c/d76b-2521137){target=_blank} ;
-
-    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
-    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
-
-    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
-
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ; 
-***
-
-
-
-
-
-    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
-
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
-
-***
-
-## Les 01, 04, 06 et 08/12
-
-=== "CONTENU DE SÉANCE"
-    
-    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
-    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
-
-  
-    - Découverte de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==**Synchroniser** votre classeur déposé sur GitHub avec un coffre d'Obsidian localisé sur votre iPad et donner accès à vos fichiers `notebook.ipynb` de ce dossier à l'application Carnets== ;
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Rendre** tous les travaux à finir ;
-
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
-
-
--->
 
 ## Le 04/03
 
@@ -632,7 +529,20 @@
     - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
      et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
 
+***
+## Le 04/03
 
+=== "CONTENU DE SÉANCE"
+    
+    - Evaluation par QCM sur le web statique ;
+    - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
+     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+
+***
 ## Du 06/02
 
 === "CONTENU DE SÉANCE"
