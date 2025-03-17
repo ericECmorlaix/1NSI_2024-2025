@@ -429,6 +429,29 @@
  
     - **S'entrainer** pour la [Nuit du cOde 2023](./Nuit_du_cOde) ; 
 -->
+
+***
+## Du 18/03
+
+=== "CONTENU DE SÉANCE"
+
+    - [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/TP_matrices.ipynb){target=_blank} |  [Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} | 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/TP_matrices.ipynb){ .md-button .md-button--primary} ;
+
+    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) en programmant un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} les exercices correspondants au notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Les_tableaux.ipynb){target=_blank} | 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Les_tableaux.ipynb){ .md-button .md-button--primary}
+
+    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
+     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank} | 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+
 ***
 ## Les 14 et 15/03 Portes Ouvertes
 
@@ -467,7 +490,7 @@
     - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
      et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
 
-    - - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank} | 
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank} | 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
 ***
