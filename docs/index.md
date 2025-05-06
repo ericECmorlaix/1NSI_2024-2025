@@ -421,6 +421,25 @@
  
     - **S'entrainer** pour la [Nuit du cOde 2023](./Nuit_du_cOde) ; 
 -->
+***
+## Du 06/05
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** les activités du site [Dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
+
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Data_CSV-2.ipynb){ .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** en PJ d'un [mail] votre notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Data_CSV-1.ipynb){ .md-button .md-button--primary} ;
+
+    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) en programmant un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
+
+    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
+     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
 
 ***
 ## Du 22/04
