@@ -422,6 +422,112 @@
     - **S'entrainer** pour la [Nuit du cOde 2023](./Nuit_du_cOde) ; 
 -->
 ***
+ 
+## Du 27/05
+
+=== "CONTENU DE SÉANCE"
+
+    - **Rendre** en PJ d'un [mail] votre notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/Data_CSV-2.ipynb){ .md-button .md-button--primary} ;
+    
+    - Correction des évaluations du trimestre ;
+
+    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Dynamique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2024-2025/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
+     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+    
+    - **regarder** la vidéo [Notions de web et d'interface homme-machine](https://www.lumni.fr/video/notions-de-web-et-d-interface-homme-machine){target="_blank"} ;
+
+    - **développer** un serveur web avec flask sur VSC :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ihp_cG7c2Rk?si=FsmsvR-ozR9AY3P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #1 : Découverte du framework, routes & templates</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lvxqvNXniVc?si=go8MTmDwkyfmduN5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #2 : Transmettre des paramètres dans l'URL</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FdA1P7dY_18?si=fO2LzJCvlFyOo8DG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #3 : Formulaires, méthodes GET et POST</figcaption>
+        </figure>
+        </center>
+
+
+    - **Se questionner** et **découvrir** l'Intelligence Artificielle avec Guillaume et la Hotline  :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mkfXdzA6B_c?si=sMKHM1SULVs5CKRV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Qui a peur de l’IA ? Se questionner #1</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/yQLmgw3rClM?si=coIFHrHxcEX_cm5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>C’est quoi l’intelligence artificielle ? Découvrir #1</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/E_3vJwb-wE0?si=Xkk1LSV1vs-pf3-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>De l’IA à toutes les sauces ? Se questionner #2</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bLvabh0asQU?si=vQjsj3EFohXAfWFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Du machine learning et des données. Découvrir #2</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rEXOzNGAWFQ?si=MHI9FFIcgNkajN-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Les humains sont-ils bons pour la casse ? Se questionner #3</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4D8XReLj5SQ?si=MFPY2qNthNln061Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>L'intelligence artificielle à notre service ? Découvrir #3</figcaption>
+        </figure>
+        </center>
+
+    - **Découvrir** l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} :
+
+        - [**interagir** avec différents modèles d'IA textuelles](https://fr.vittascience.com/ia/text.php){target=_blank} ;    
+    
+    - **Utiliser** une IA conversationnelle sans inscription avec [DuckDuckGo](https://duckduckgo.com/){target=_blank} ;  
+    
+    - **Reproduire** l'expérience :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/q8-LhLKc8wY?si=kaVzTn_vQ3YFJYN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Intelligence artificielle-une machine qui apprend à jouer</figcaption>
+        </figure>
+        </center>
+              
+
+
+***
 ## Du 06/05
 
 === "CONTENU DE SÉANCE"
